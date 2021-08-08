@@ -61,15 +61,15 @@ button{
     background-color: hsl(0, 0%, 95%);
 }
 .sedbtn:hover{
-    
+    background-color: none;
     color: hsl(31, 77%, 52%);
 }
 .suvbtn:hover{
-    
+    background-color: none;
     color: hsl(184, 100%, 22%);
 }
 .luxbtn:hover{
-    
+    background-color: none;
     color: hsl(179, 100%, 13%);
 }
 .flex1{
